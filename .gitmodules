@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/uapp-toolkit-core"]
+	path = Assets/Packages/uapp-toolkit-core
+	url = https://github.com/vovkasu/uapp-toolkit-core.git
