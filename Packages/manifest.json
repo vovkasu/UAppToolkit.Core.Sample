@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "uapp-toolkit-animations": "https://github.com/vovkasu/uapp-toolkit-animations.git?path=Assets/PackageSrc#1.0.1",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.feature.mobile": "1.0.0",
     "com.unity.ide.rider": "3.0.21",
