@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.uapp-toolkit.options-provider": {
+      "version": "https://github.com/vovkasu/uapp-toolkit-options-provider.git?path=Packages/com.uapp-toolkit.options-provider#v1.0.2",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "590abb1070361942f2ce147faa84e0037df87b6c"
+    },
     "com.unity.2d.animation": {
       "version": "10.2.1",
       "depth": 1,
