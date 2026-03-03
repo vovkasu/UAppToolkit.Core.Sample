@@ -72,3 +72,5 @@ Assets/StreamingAssets/build_info.meta
 
 *.xcloud
 /.vscode
+Assets/SamplesDev.meta
+/Assets/SamplesDev
