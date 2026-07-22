@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.uapp-toolkit.animations": "https://github.com/vovkasu/uapp-toolkit-animations.git?path=Assets/PackageSrc#1.0.3",
+    "com.uapp-toolkit.core": "https://github.com/vovkasu/uapp-toolkit-core.git#1.0.11",
     "com.uapp-toolkit.options-provider": "https://github.com/vovkasu/uapp-toolkit-options-provider.git?path=Packages/com.uapp-toolkit.options-provider#v1.0.2",
     "com.uapp-toolkit.page-navigation": "https://github.com/vovkasu/uapp-toolkit-page-navigation.git?path=Packages/com.uapp-toolkit.page-navigation#v1.0.1",
     "com.unity.feature.2d": "2.0.1",

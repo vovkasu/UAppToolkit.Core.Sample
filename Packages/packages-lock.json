@@ -7,6 +7,17 @@
       "dependencies": {},
       "hash": "1ca931fbc00dcc77f5fb4225b1339fbe4939010a"
     },
+    "com.uapp-toolkit.core": {
+      "version": "https://github.com/vovkasu/uapp-toolkit-core.git#1.0.11",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.uapp-toolkit.animations": "1.0.3",
+        "com.uapp-toolkit.options-provider": "1.0.2",
+        "com.uapp-toolkit.page-navigation": "1.0.1"
+      },
+      "hash": "8d8ce9b826449f8d0c5a7b2028fcdb556fbc4668"
+    },
     "com.uapp-toolkit.options-provider": {
       "version": "https://github.com/vovkasu/uapp-toolkit-options-provider.git?path=Packages/com.uapp-toolkit.options-provider#v1.0.2",
       "depth": 0,
