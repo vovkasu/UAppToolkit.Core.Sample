@@ -26,13 +26,13 @@
       "hash": "590abb1070361942f2ce147faa84e0037df87b6c"
     },
     "com.uapp-toolkit.page-navigation": {
-      "version": "https://github.com/vovkasu/uapp-toolkit-page-navigation.git?path=Packages/com.uapp-toolkit.page-navigation#v1.0.1",
+      "version": "https://github.com/vovkasu/uapp-toolkit-page-navigation.git?path=Packages/com.uapp-toolkit.page-navigation#v1.1.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.uapp-toolkit.animations": "1.0.3"
       },
-      "hash": "56f7182454abb813d9fd7128d882b0478603bee2"
+      "hash": "432b213b0836923357f453b6734e5c405cd015bb"
     },
     "com.unity.2d.animation": {
       "version": "10.2.1",
